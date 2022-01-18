@@ -10,11 +10,11 @@ The purpose of this project was to build a website based on data we received on 
 Using a juxtaposition of HTML, CSS, Bootstrap, and Javscript we created the following website in Github pages. **[UFO Sightings - The Truth is Out There](https://jeremysz0419.github.io/UFOs/)** 
 
 Upon entering the page, we have encorporated an event listener on the top left header ("UFO Sightings") where clicking it will refresh the page and all the filters.
-![heading]()
+![heading](https://github.com/jeremysz0419/UFOs/blob/main/static/images/heading.PNG)
 
 Furthermore a filtering section has been added which included five possible parameters (date, city, state, country, and shape). Additionally, you can filter either by entering just one of the parameters or all of them at once. This dynamic filtering system allows the user to have the freedom of easily filtering for the results and data they need.
 
-![filter]()
+![filter](https://github.com/jeremysz0419/UFOs/blob/main/static/images/filter.PNG)
 
 ## Summary
 
